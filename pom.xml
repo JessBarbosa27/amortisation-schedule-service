@@ -8,7 +8,7 @@
         <version>3.2.5</version>
         <relativePath/>
     </parent>
-    <groupId>com.ldms.finance</groupId>
+    <groupId>com.jesslabs.finance</groupId>
     <artifactId>amortisation-schedule-service</artifactId>
     <version>0.0.1</version>
     <name>amortisation-schedule-service</name>
