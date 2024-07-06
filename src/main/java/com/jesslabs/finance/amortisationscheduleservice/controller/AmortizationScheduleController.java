@@ -19,6 +19,7 @@ import java.util.List;
 @RestController
 @RequestMapping(value = "/v1/")
 @OpenAPIDefinition(info = @Info(title = "Amortization Schedule Controller"))
+@CrossOrigin
 public class AmortizationScheduleController {
 
     private final AmortizationScheduleService amortizationScheduleService;
